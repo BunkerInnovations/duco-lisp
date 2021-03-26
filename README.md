@@ -1,2 +1,2 @@
 # duco-lisp
-Duco miner in clisp
+Duco miner in common lisp
