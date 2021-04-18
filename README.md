@@ -1,4 +1,3 @@
 # duco-lisp
-Duco miner in clisp
-
-fail lol
+Duco miner in common lisp
+fail, F
